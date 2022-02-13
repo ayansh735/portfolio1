@@ -467,6 +467,7 @@ button {
   position: relative;
   display: block;
   font-size: 40px;
+  color: var(--blue-dark);
   text-transform: capitalize;
   font-weight: 500;
   padding: 8px 15px;
